@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Fiji 👋
 
-<!--
-**fajumesi/fajumesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Linux Systems Administrator with experience in vulnerability management and enterprise IT environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently learning Cloud and Data Engineering and building my skills through hands-on projects.
+
+## What I'm Learning
+
+- Git and GitHub
+- Python
+- Cloud Engineering
+- Data Engineering
+
+## My Background
+
+- Linux Systems Administration
+- Vulnerability Management
+- Enterprise IT
+- Federal and Defense environments
+
+## Current Goal
+
+My goal is to develop strong Cloud and Data Engineering skills by learning the fundamentals, building real projects, and documenting my progress on GitHub.
